@@ -1,0 +1,19 @@
+body{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-size: 20px;
+    background-color: #df608a;
+}
+#author{
+    color: #640D5F;
+}
+#qoute{
+    color:rgb(219, 90, 133);
+}
+.btn{
+    background-color:#D91656;
+    color: #fff;
+}
+.btn:hover{
+    background-color:#D91656;
+    color: #fff;
+}
